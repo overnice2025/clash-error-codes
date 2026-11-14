@@ -349,8 +349,8 @@ Full string: `error patching outbound ... netip.ParsePrefix("/24"): ParseAddr(""
 
 ## Related
 
-- [Proxy client comparison matrix](https://github.com/lihu3470-dotcom/proxy-client-matrix) — platform, protocol, TUN, rule system, license, price
-- [Subscription format notes](https://github.com/lihu3470-dotcom/subscription-format-notes) — base64 vs YAML, `subscription-userinfo`, conversion pitfalls
+- [Proxy client comparison matrix](https://github.com/overnice2025/proxy-client-matrix) — platform, protocol, TUN, rule system, license, price
+- [Subscription format notes](https://github.com/overnice2025/subscription-format-notes) — base64 vs YAML, `subscription-userinfo`, conversion pitfalls
 - [Full site index (ZH)](https://jiedianshouce.com/troubleshooting/)
 
 ## Contributing
