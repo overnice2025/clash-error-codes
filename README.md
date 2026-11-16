@@ -347,6 +347,10 @@ Full string: `error patching outbound ... netip.ParsePrefix("/24"): ParseAddr(""
 
 ---
 
+---
+
+If this saved you a reinstall, star the repo — it's the only signal that tells other people the entry is worth reading.
+
 ## Related
 
 - [Proxy client comparison matrix](https://github.com/overnice2025/proxy-client-matrix) — platform, protocol, TUN, rule system, license, price
