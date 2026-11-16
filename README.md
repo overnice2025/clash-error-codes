@@ -349,6 +349,10 @@ Full string: `error patching outbound ... netip.ParsePrefix("/24"): ParseAddr(""
 
 ---
 
+Machine-readable version of this reference (field mapping and the full error table, no JavaScript): **https://overnice2025.github.io/**
+
+---
+
 If this saved you a reinstall, star the repo — it's the only signal that tells other people the entry is worth reading.
 
 ## Related
